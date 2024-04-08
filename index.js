@@ -7,3 +7,5 @@ const four = "four";
 const five = "five";
 const six = "six";
 const seven = "seven";
+
+const eight = "eight";
